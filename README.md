@@ -1,15 +1,26 @@
-<!-- Dark Cyber Terminal Banner -->
+<!-- Pitch-Black Cyber Terminal Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:003B11&height=150&section=header&text=root%40go2vats%3A~%24&fontSize=38&fontColor=00FF41&fontAlignY=38&desc=Senior%20Java%20%7C%20Kotlin%20%7C%20Spring%20Boot%20Technical%20Architect%20%7C%2010%2B%20Yrs&descSize=15&descColor=38BDF8&descAlignY=63" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=135&section=header&text=root%40go2vats%3A~%24&fontSize=38&fontColor=00FF41&fontAlignY=42&desc=Senior%20Java%20%7C%20Kotlin%20%7C%20Spring%20Boot%20Technical%20Architect%20%7C%2010%2B%20Yrs&descSize=15&descColor=38BDF8&descAlignY=72" width="100%" />
 </p>
 
+<!-- Live Typing Terminal Status -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=780&height=45&lines=%3E_SYSTEM_ONLINE+%7C+10%2B+Years+Enterprise+Architecture;%3E_DOMAINS%3A+Banking+%7C+FinTech+%7C+Payment+Gateways+%7C+ERP;%3E_IMPACT%3A+99.3%25+Batch+Optimization+(72+hrs+-%3E+30+mins);%3E_STATUS%3A+Pursuing+M.Sc.+in+Data+Science+%7C+London%2C+UK" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=780&height=45&lines=%3E_SYSTEM_ONLINE+%7C+10%2B+Years+Enterprise+Architecture;%3E_DOMAINS%3A+Banking+%7C+FinTech+%7C+Payment+Gateways+%7C+ERP;%3E_IMPACT%3A+99.3%25+Batch+Optimization+(72+hrs+-%3E+30+mins);%3E_STATUS%3A+Pursuing+M.Sc.+in+Data+Science+%7C+London%2C+UK" alt="Typing SVG" />
 </p>
 
+<!-- Action & Contact Badges (Dashboard, LinkedIn, Email, GitHub) -->
 <p align="center">
   <a href="https://go2vats.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_OPEN_FULL_MATRIX_TELEMETRY_DASHBOARD-0D1117?style=for-the-badge&logo=githubpages&logoColor=00FF41&color=00FF41" alt="Live Dashboard" />
+    <img src="https://img.shields.io/badge/⚡_LIVE_MATRIX_DASHBOARD-00FF41?style=for-the-badge&logo=githubpages&logoColor=0D1117&labelColor=0D1117" alt="Live Dashboard" />
+  </a>
+  <a href="https://www.linkedin.com/in/go2vats/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" alt="LinkedIn" />
+  </a>
+  <a href="mailto:go2vats@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL_ME-00FF41?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" alt="Email" />
+  </a>
+  <a href="https://github.com/go2vats?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/ALL_REPOSITORIES-E6EDF3?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="Repositories" />
   </a>
 </p>
 
@@ -31,6 +42,16 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=go2vats&bg_color=0D1117&color=00FF41&line=00FF41&point=38BDF8&area=true&hide_border=false&border_color=00FF41" width="100%" />
+</p>
+
+---
+
+### `> featured_&_pinned_repositories`
+
+<p align="center">
+  <a href="https://github.com/go2vats/go2vats.github.io" target="_blank">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=go2vats&repo=go2vats.github.io&bg_color=0D1117&title_color=00FF41&icon_color=38BDF8&text_color=E6EDF3&border_color=00FF41" />
+  </a>
 </p>
 
 ---
